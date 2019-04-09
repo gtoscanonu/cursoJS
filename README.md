@@ -1,9 +1,24 @@
-# First project
-This project is a **demo**
+# Línea de comandos 
 
-## Description
+## **mkdir**: 
+Permite crear una carpeta
+```
+mkdir carpeta
+```
 
-[enlace](http://www.onlineaskdjfkasdjf)
+## **touch:**
+permite crear un archiivo vacío
+```
+touch archivo
+```
 
+## **cd:** 
+Permite movernos a través de los diferentes directorios
+```
+cd /ruta
+``` 
 
-Rhe keyword `function` is user to declare functions in Javascript  
+## **ls:**
+lista los elementos de un directorio.
+
+![markdown](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1200px-Markdown-mark.svg.png)
